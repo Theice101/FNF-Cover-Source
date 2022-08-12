@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Joe_Imposta.png">
+<SubTexture name="Joe_Imposta Down0000" x="3882" y="0" width="886" height="1041" frameX="-809" frameY="-29" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta Down0001" x="3882" y="1041" width="882" height="1039" frameX="-815" frameY="-28" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta Down0002" x="1851" y="3163" width="871" height="1032" frameX="-830" frameY="-26" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta Down0003" x="4768" y="0" width="861" height="1023" frameX="-844" frameY="-24" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta Down0004" x="4768" y="1023" width="860" height="1016" frameX="-849" frameY="-22" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta Down0005" x="4768" y="2039" width="860" height="1014" frameX="-850" frameY="-21" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta Down0006" x="4687" y="4203" width="874" height="1016" frameX="-835" frameY="-21" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta Down0007" x="987" y="4203" width="904" height="1021" frameX="-803" frameY="-23" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta Down0008" x="2722" y="3163" width="930" height="1028" frameX="-773" frameY="-25" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta Down0009" x="912" y="3163" width="939" height="1034" frameX="-760" frameY="-27" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta Down0010" x="0" y="3163" width="912" height="1040" frameX="-784" frameY="-28" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta Down0011" x="3882" y="0" width="886" height="1041" frameX="-809" frameY="-29" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta down miss0000" x="0" y="5226" width="886" height="979" frameX="-809" frameY="-91" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta down miss0001" x="3881" y="7154" width="886" height="911" frameX="-807" frameY="-142" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta down miss0002" x="8411" y="878" width="886" height="845" frameX="-805" frameY="-192" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta down miss0003" x="4767" y="7154" width="886" height="911" frameX="-807" frameY="-142" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta down miss0004" x="0" y="5226" width="886" height="979" frameX="-809" frameY="-91" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta hey0000" x="5629" y="4034" width="832" height="984" frameX="-787" frameY="-86" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta hey0001" x="6623" y="0" width="858" height="958" frameX="-761" frameY="-87" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta hey0002" x="7481" y="933" width="884" height="932" frameX="-735" frameY="-88" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta hey0003" x="6623" y="958" width="858" height="957" frameX="-761" frameY="-88" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta hey0004" x="4768" y="3053" width="832" height="982" frameX="-787" frameY="-88" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta idle0000" x="1588" y="5226" width="702" height="977" frameX="-917" frameY="-93" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta idle0001" x="3862" y="5226" width="707" height="975" frameX="-934" frameY="-95" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta idle0002" x="4569" y="5226" width="737" height="975" frameX="-925" frameY="-95" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta idle0003" x="6623" y="2871" width="710" height="936" frameX="-909" frameY="-127" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta idle0004" x="7481" y="4649" width="816" height="920" frameX="-803" frameY="-147" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta idle0005" x="7481" y="5569" width="825" height="919" frameX="-793" frameY="-148" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta idle0006" x="6623" y="3807" width="823" height="918" frameX="-795" frameY="-148" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta idle0007" x="6623" y="4725" width="772" height="905" frameX="-846" frameY="-135" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta idle0008" x="7481" y="2797" width="757" height="931" frameX="-861" frameY="-113" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta idle0009" x="6623" y="1915" width="829" height="956" frameX="-812" frameY="-100" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta idle0010" x="5306" y="5226" width="744" height="969" frameX="-886" frameY="-97" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta idle0011" x="886" y="5226" width="702" height="978" frameX="-917" frameY="-92" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta right0000" x="0" y="0" width="908" height="1060" frameX="-756" frameY="-10" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta right0001" x="0" y="2115" width="923" height="1048" frameX="-760" frameY="-20" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta right0002" x="3652" y="3163" width="955" height="1024" frameX="-769" frameY="-40" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta right0003" x="0" y="4203" width="987" height="1023" frameX="-777" frameY="-35" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta right0004" x="1891" y="4203" width="1001" height="1019" frameX="-781" frameY="-34" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta right0005" x="5629" y="0" width="994" height="1011" frameX="-782" frameY="-37" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta right0006" x="5629" y="1011" width="975" height="1011" frameX="-785" frameY="-35" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta right0007" x="1628" y="2115" width="947" height="1044" frameX="-786" frameY="-5" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta right0008" x="5629" y="3031" width="926" height="1003" frameX="-773" frameY="-52" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta right0009" x="5629" y="2022" width="903" height="1009" frameX="-768" frameY="-53" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta right0010" x="3787" y="4203" width="900" height="1017" frameX="-764" frameY="-51" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta right0011" x="0" y="0" width="908" height="1060" frameX="-756" frameY="-10" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta right miss0000" x="2892" y="4203" width="895" height="1018" frameX="-757" frameY="-52" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta right miss0001" x="934" y="6205" width="895" height="948" frameX="-755" frameY="-105" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta right miss0002" x="8411" y="0" width="895" height="878" frameX="-753" frameY="-159" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta right miss0003" x="1829" y="6205" width="895" height="948" frameX="-755" frameY="-105" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta right miss0004" x="2892" y="4203" width="895" height="1018" frameX="-757" frameY="-52" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta left0000" x="5385" y="6205" width="912" height="934" frameX="-964" frameY="-136" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta left0001" x="7481" y="0" width="930" height="933" frameX="-949" frameY="-138" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta left0002" x="0" y="7154" width="964" height="928" frameX="-922" frameY="-144" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta left0003" x="964" y="7154" width="987" height="921" frameX="-907" frameY="-152" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta left0004" x="1951" y="7154" width="980" height="916" frameX="-921" frameY="-158" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta left0005" x="2931" y="7154" width="950" height="914" frameX="-954" frameY="-161" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta left0006" x="7481" y="3728" width="930" height="921" frameX="-958" frameY="-153" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta left0007" x="6297" y="6205" width="900" height="934" frameX="-960" frameY="-139" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta left0008" x="2724" y="6205" width="882" height="940" frameX="-964" frameY="-132" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta left0009" x="3606" y="6205" width="885" height="938" frameX="-967" frameY="-133" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta left0010" x="4491" y="6205" width="894" height="935" frameX="-969" frameY="-136" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta left0011" x="7481" y="1865" width="904" height="932" frameX="-964" frameY="-138" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta up0000" x="1469" y="1060" width="705" height="1053" frameX="-913" frameY="-17" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta up0001" x="1637" y="0" width="710" height="1055" frameX="-912" frameY="-14" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta up0002" x="908" y="0" width="729" height="1056" frameX="-910" frameY="-8" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta up0003" x="0" y="1060" width="743" height="1055" frameX="-907" frameY="-3" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta up0004" x="2347" y="0" width="749" height="1051" frameX="-905" frameY="-2" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta up0005" x="2575" y="2115" width="744" height="1043" frameX="-903" frameY="-5" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta up0006" x="3882" y="2080" width="747" height="1035" frameX="-902" frameY="-11" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta up0007" x="3096" y="1050" width="742" height="1049" frameX="-903" frameY="-17" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta up0008" x="743" y="1060" width="726" height="1055" frameX="-906" frameY="-21" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta up0009" x="923" y="2115" width="705" height="1047" frameX="-909" frameY="-21" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta up0010" x="2347" y="1051" width="706" height="1049" frameX="-911" frameY="-19" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta up0011" x="1469" y="1060" width="705" height="1053" frameX="-913" frameY="-17" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta up miss0000" x="3096" y="0" width="786" height="1050" frameX="-913" frameY="-20" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta up miss0001" x="2290" y="5226" width="786" height="977" frameX="-910" frameY="-76" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta up miss0002" x="5653" y="7154" width="786" height="905" frameX="-908" frameY="-132" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta up miss0003" x="3076" y="5226" width="786" height="977" frameX="-910" frameY="-76" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta up miss0004" x="3096" y="0" width="786" height="1050" frameX="-913" frameY="-20" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta right miss0005" x="0" y="6205" width="934" height="949" frameX="-971" frameY="-121" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta right miss0006" x="6439" y="7154" width="934" height="884" frameX="-968" frameY="-169" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta right miss0007" x="0" y="8082" width="934" height="819" frameX="-966" frameY="-218" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta right miss0008" x="7373" y="7154" width="934" height="884" frameX="-968" frameY="-169" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe_Imposta right miss0009" x="0" y="6205" width="934" height="949" frameX="-971" frameY="-121" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>
