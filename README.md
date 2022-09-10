@@ -17,7 +17,7 @@ Any additional information will be in the folders.
 
 # Tools I Use
 
-- ⭐️ All Software I Use Are Free and Open-Source. I Will Link Paid Alternatives if Interested ⭐️
+- ⭐️ All Software I Use Are Free and Open-Source ⭐️
 - ⭐️ I Will Link Paid Alternatives if Interested ⭐️
 - ⭐️ The Software At The Top Are The Ones I Personally Use ⭐️
 
