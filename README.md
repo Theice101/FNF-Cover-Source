@@ -38,7 +38,7 @@ Any additional information will be in the folders.
 		- [FL Studio](https://www.image-line.com/) ‼️Paid/Proprietary‼️
 
 		
-4. [Krita](https://krita.org)
+4. [Krita](https://krita.org) ✅️ Free/Open-Souce ✅️
 	- Alternatives that people use
 		- [PaintTool SAI](https://www.systemax.jp/en/sai/) ‼️Paid/Proprietary‼️
 		- [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) ‼️Paid/Proprietary‼️
