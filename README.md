@@ -17,9 +17,9 @@ Any additional information will be in the folders.
 
 # Tools I Use
 
-⭐️ All Software I Use Are Free and Open-Source. I Will Link Paid Alternatives if Interested ⭐️
-⭐️ I Will Link Paid Alternatives if Interested ⭐️
-⭐️ The Software At The Top Are The Ones I Personally Use ⭐️
+- ⭐️ All Software I Use Are Free and Open-Source. I Will Link Paid Alternatives if Interested ⭐️
+- ⭐️ I Will Link Paid Alternatives if Interested ⭐️
+- ⭐️ The Software At The Top Are The Ones I Personally Use ⭐️
 
 1. [OpenUtau](https://www.openutau.com/) ✅️ Free/Open-Souce ✅️
 	- Alternatives that people use
