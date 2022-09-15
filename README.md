@@ -25,9 +25,9 @@ Any additional information will be in the folders.
 	- Alternatives that people use
 		- [UTAU](http://utau2008.web.fc2.com/) ❗Proprietary❗
 		
-2. [Saucedacity](https://saucedacity.github.io/) ✅️ Free/Open-Souce ✅️
+2. [Audacity](https://www.audacityteam.org/) ✅️ Free/Open-Souce ✅️ 💢️ [Really Minor Telemetry](https://itigic.com/audacity-3-0-3-introduces-telemetry-disable-it/) And [Really Minor Controversies](https://github.com/audacity/audacity/pull/835) 💢️ 
 	- Alternatives that people use
-		- [Audacity](https://www.audacityteam.org/) ✅️ Free/Open-Souce ✅️
+		- [Saucedacity](https://saucedacity.github.io/) ✅️ Free/Open-Souce ✅️ 😓️ As Of Now Saucedacity Does NOT Support FFMPEG 😓️
 		- [Tenacity](https://tenacityaudio.org/) ⚠️Discontinued⚠️ ✅️ Free/Open-Souce ✅️
 		- [Audacium](https://audacium.github.io/audacium/) ⚠️On Hold⚠️ ✅️ Free/Open-Souce ✅️
 
