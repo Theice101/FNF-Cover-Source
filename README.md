@@ -27,7 +27,7 @@ Any additional information will be in the folders.
 		
 2. [Audacity](https://www.audacityteam.org/) ✅️ Free/Open-Souce ✅️ 💢️ [Really Minor Telemetry](https://itigic.com/audacity-3-0-3-introduces-telemetry-disable-it/) And [Really Minor Controversies](https://github.com/audacity/audacity/pull/835) 💢️ 
 	- Alternatives that people use
-		- [Saucedacity](https://saucedacity.github.io/) ✅️ Free/Open-Souce ✅️ 😓️ As Of Now Saucedacity Does NOT Support FFMPEG 😓️
+		- [Saucedacity](https://saucedacity.github.io/) ✅️ Free/Open-Souce ✅️ 😓️ [As Of Now Saucedacity Does NOT Support FFMPEG](https://github.com/saucedacity/saucedacity/wiki/FFmpeg-Support-in-Saucedacity) 😓️
 		- [Tenacity](https://tenacityaudio.org/) ⚠️Discontinued⚠️ ✅️ Free/Open-Souce ✅️
 		- [Audacium](https://audacium.github.io/audacium/) ⚠️On Hold⚠️ ✅️ Free/Open-Souce ✅️
 
