@@ -50,3 +50,7 @@ Any additional information will be in the folders.
 		- [OpenToonz](https://opentoonz.github.io/e/) ✅️ Free/Open-Souce ✅️
 		
 6. [FnF-Spritesheet-and-XML-Maker](https://github.com/UncertainProd/FnF-Spritesheet-and-XML-Maker) ✅️ Free/Open-Souce ✅️
+
+7. [Swami](http://www.swamiproject.org/) ✅️ Free/Open-Souce ✅️
+	- Alternatives that people use
+		- [POLYPHONE](https://www.polyphone-soundfonts.com/) ✅️ Free/Open-Souce ✅️
